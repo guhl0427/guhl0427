@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=guhl0427&show_icons=true&hide_border=true&hide_title=true&theme=graywhite&bg_color=0,60F3AB,00CCBC,009AC0"><img height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhl0427&hide_border=true&hide_title=true&layout=compact&theme=swift&bg_color=0,006FAF,014289">
+
 <!--
 **guhl0427/guhl0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
